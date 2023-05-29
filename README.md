@@ -1,0 +1,2 @@
+# tecAulas
+Exercícios para TEC
